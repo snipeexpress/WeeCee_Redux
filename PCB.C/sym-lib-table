@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "llama_shared")(type "KiCad")(uri "/Users/mschultz/Library/CloudStorage/OneDrive-SharedLibraries-snipeexpress/storage - Documents/Repository/Projects/Hardware/TinyLlama v2/Gerbers/kicad/llama_shared.kicad_sym")(options "")(descr ""))
+  (lib (name "weeCee_library")(type "KiCad")(uri "${KIPRJMOD}/weeCee_library.kicad_sym")(options "")(descr ""))
+)
