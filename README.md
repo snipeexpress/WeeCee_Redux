@@ -4,7 +4,7 @@
 
 **WeeCee Redux** is a hardware clone of Rasteri’s **WeeCee v0.3**, enhanced with a variety of improvements for modern usability, better component choices, and more robust design.
 
-## 🔧 Key Improvements
+## Key Improvements
 
 1. **HIDman Integration**  
    
