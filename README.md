@@ -40,6 +40,6 @@
    
    Added support for a **CR1220** coin cell battery to maintain Real-Time Clock settings.
 
-## 📦 Enclosure Notes
+## Enclosure Notes
 
 This revision still fits the original enclosure used in Rasteri’s WeeCee v0.3. However, due to the added ports and indicators, **updated front and rear panels are required** for proper alignment.
